@@ -1,11 +1,11 @@
 # ZeroEye  
-An AI-powered Cybersecurity Copilot by OrnateLock
+An AI-powered Cybersecurity Tool by OrnateLock
 
 ---
 
 ## What is ZeroEye?
 
-ZeroEye is an upcoming open-source cybersecurity tool that uses artificial intelligence to understand, explain, and help respond to system-level security logs.
+ZeroEye is an upcoming cybersecurity tool that uses artificial intelligence to understand, explain, and help respond to system-level security logs.
 
 The goal is to build a virtual cybersecurity assistant that can:
 
